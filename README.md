@@ -3,7 +3,7 @@
 
 Created by: Whitten Oswald
 
-For: Sophomore Engineering Clinic I visual argument
+For: Clinic project: visual argument
 
 On: December 1, 2021
 
