@@ -21,5 +21,9 @@ Steps you can take right now:
 
 
 
-Cherry Hill Township Single-Stream Recycling Guidelines:
-https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling
+<footer>
+    <address>
+        Contact <a href="mailto:whittenoswald@gmail.com">me</a>
+    <address>
+        @ whittenoswald@gmail.com for more information on your recycling-related questions
+</footer>
