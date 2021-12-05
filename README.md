@@ -3,6 +3,13 @@
 Problem Definition:
 Waterford Apartments have a dumpster problem. 
 
+
+
+Steps you can take right now:
+1. Breakdown your cardboard before placing it in the dumpster.
+2. NEVER place plastic bags in the recycling bin.
+3. Inform others.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
