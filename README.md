@@ -1,6 +1,34 @@
 # SEC-Visual-Argument
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Created by: Whitten Oswald
 
 For: Clinic project visual argument
