@@ -3,7 +3,7 @@
 
 Created by: Whitten Oswald
 
-For: Clinic project: visual argument
+For: Clinic project visual argument
 
 On: December 1, 2021
 
