@@ -17,6 +17,7 @@ Facts:
 "The best cardboard for recycling is clean, dry, flat, with no packing materials left inside the boxes."
 <br><br>
 For Cherry Hill's rules/guidelines on recycling: 
+<br>
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
 <br>
 <h2>Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!</h2>
