@@ -18,7 +18,7 @@ Facts:
 3. It takes less than 30 seconds!
 
 <br><br>
-#Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!
+###Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!
 <br><br>
 
 https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling
