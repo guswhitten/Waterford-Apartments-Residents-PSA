@@ -13,14 +13,12 @@ Watch this short video.
 
 
 
-
+<br><br>
 
 
 
 
 <footer>
     <address>
-        Contact <a href="mailto:whittenoswald@gmail.com">me</a>
-    <address>
-        @ whittenoswald@gmail.com for more information on your recycling-related questions
+        Contact @ oswald78@students.rowan.edu for more information on your recycling-related questions
 
