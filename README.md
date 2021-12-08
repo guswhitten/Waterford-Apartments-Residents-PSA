@@ -1,4 +1,4 @@
-# This one recycling tip could save you and your neighbors a huge headache
+# This 1 Recycling Tip Could Save You and Your Neighbors a Huge Headache
 
 The Problem: 
 <br>
