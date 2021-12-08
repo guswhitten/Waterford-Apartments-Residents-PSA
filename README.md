@@ -21,7 +21,7 @@ Facts:
 ###Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!
 <br><br>
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
 
 https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling
 
