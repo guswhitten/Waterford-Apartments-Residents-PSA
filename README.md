@@ -21,6 +21,8 @@ Facts:
 #Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!
 <br><br>
 
+https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling
+
 <footer>
     <address>
         Contact @ oswald78@students.rowan.edu for more information on your recycling-related questions
