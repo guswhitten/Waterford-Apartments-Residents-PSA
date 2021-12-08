@@ -14,7 +14,7 @@ Facts:
 <h1> Watch this short video for an easy cardboard flattening technique: </h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+"The best cardboard for recycling is clean, dry, flat, with no packing materials left inside the boxes."
 <br>
 For Cherry Hill's rules/guidelines on recycling: 
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
