@@ -6,8 +6,8 @@ Waterford Apartments have a dumpster problem. Many residents do not break down t
 The Solution:
 Break down your cardboard!
 
-## Want to know how to break down cardboard? 
-Watch this short video.
+## Watch this short video for a quick and efficient cardboard deconstruction technique: 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
