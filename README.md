@@ -1,4 +1,4 @@
-# Your Contribution To Combatting Climate Change Starts With Your Recycling Bin
+# This one recycling tip could save you and your neighbors a huge headache
 
 The Problem: 
 <br>
