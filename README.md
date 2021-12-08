@@ -16,8 +16,8 @@ Facts:
 1. Based on a recent observation of Waterford residents, as many as ***9 out of every 10*** residents failed to flatten their cardboard before recycling it. 
 2. Flattening cardboard can reduce its size by up to 85% or more! 
 3. It takes less than 30 seconds!
-<br>
-For Cherry Hill's rules/guidelines on recycling:
+<br><br>
+For Cherry Hill's rules/guidelines on recycling: 
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
 <br><br>
 <h1>Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!</h1>
