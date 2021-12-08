@@ -23,7 +23,7 @@ Facts:
 
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
 
-
+<br><br><br>
 <footer>
     <address>
         Contact @ oswald78@students.rowan.edu for more information on your recycling-related questions
