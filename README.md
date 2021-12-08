@@ -6,16 +6,19 @@ Waterford Apartments have a dumpster problem. Many residents do not break down t
 
 The Solution:
 Break down your cardboard!
-
-## Watch this short video for an easy cardboard flattening technique: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
 Facts:
 1. Based on a recent observation of Waterford residents, as many as ***9 out of every 10*** residents failed to flatten their cardboard before recycling it. 
 2. Flattening cardboard can reduce its size by up to 85% or more! 
 3. It takes less than 30 seconds!
+
+<br>
+## Watch this short video for an easy cardboard flattening technique: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 <br><br>
 For Cherry Hill's rules/guidelines on recycling: 
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
