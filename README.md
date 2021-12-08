@@ -18,12 +18,11 @@ Facts:
 3. It takes less than 30 seconds!
 
 <br><br>
-###Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!
+<h1>Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!</h1>
 <br><br>
 
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
 
-https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling
 
 <footer>
     <address>
