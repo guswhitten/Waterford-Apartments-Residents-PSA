@@ -17,12 +17,11 @@ Facts:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
 
 <br><br>
 For Cherry Hill's rules/guidelines on recycling: 
 [![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
-<br><br>
+<br>
 <h2>Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!</h2>
 <br>
 <footer>
