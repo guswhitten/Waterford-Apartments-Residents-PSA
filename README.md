@@ -21,7 +21,7 @@ Facts:
 ###Disclaimer: Please practice blade safety at all times and keep sharp objects away from children!
 <br><br>
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
+[![Cherry Hill Zero-Sort-Recycling Guidelines](/assets/images/shiprock.jpg "Cherry Hill Recycling Guidelines")](https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling)
 
 https://www.chnj.gov/DocumentCenter/View/6528/PDF-Zero-Sort-Recycling
 
