@@ -3,7 +3,6 @@
 The Problem: 
 <br>
 Waterford Apartments have a dumpster problem. Many residents do not break down their cardboard before throwing it in the recycling dumpster. This results in an overflowing dumpster long before trash day, and makes it difficult to continue recycling items all week. This forces residents to either throw their recyclables on the ground, in the landfill dumpster, or keep them in their house until trash day. 
-
 The Solution:
 Break down your cardboard!
 <br>
