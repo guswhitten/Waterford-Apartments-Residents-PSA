@@ -12,11 +12,13 @@ Break down your cardboard!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
-
-Based on a recent observation of Waterford residents, as many as ***9 out of every 10*** residents failed to flatten their cardboard before recycling it. 
-<br><br>
-Flattening cardboard can reduce its size by up to 85% or more! And it takes less than 30 seconds!
-
+Facts:
+1. Based on a recent observation of Waterford residents, as many as ***9 out of every 10*** residents failed to flatten their cardboard before recycling it. 
+<br>
+2. Flattening cardboard can reduce its size by up to 85% or more! 
+<br>
+3. It takes less than 30 seconds!
+<br><br><br><br>
 
 <footer>
     <address>
