@@ -6,15 +6,15 @@ Waterford Apartments have a dumpster problem. Many residents do not break down t
 The Solution:
 Break down your cardboard!
 
-## Watch this short video for a quick and efficient cardboard deconstruction technique: 
-
-
+## Watch this short video for an easy cardboard flattening technique: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPi2yNENia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 
-
+Based on a recent observation of Waterford residents, as many as ***9 out of every 10*** residents failed to flatten their cardboard before recycling it. 
+<br>
+Flattening cardboard can reduce its size by up to 85% or more! 
 
 
 <footer>
